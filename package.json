@@ -1,9 +1,0 @@
-{
-    "name": "computer-association-knowledge-base",
-    "version": "1.0.1",
-    "private": true,
-    "scripts": {
-        "dev": "mkdocs serve",
-        "build": "mkdocs build -d public"
-    }
-}
