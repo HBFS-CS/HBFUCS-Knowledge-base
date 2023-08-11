@@ -1,0 +1,25 @@
+site_name: 计算机协会知识库
+copyright: Copyright &copy; 2023 河北金融学院计算机协会
+theme:
+  favicon: 'favicon.ico'
+  custom_dir: overrides
+  name: material
+  language: zh
+nav:
+  - 首页: index.md
+  - 社团活动:
+      - 近期活动回顾: activities/recent-events.md
+      - 活动相册: activities/event-photos.md
+      - 活动日历: activities/event-calendar.md
+  - 成员风采:
+      - 成员作品展示: members/portfolio.md
+      - 成员专访: members/member-interviews.md
+      - 成员风采相册: members/member-photos.md
+  - 学习资源:
+      - 学习网站推荐: resources/websites.md
+      - 推荐书籍: resources/book-recommendations.md
+      - 在线课程推荐: resources/online-courses.md
+  - 往届学长学姐留言: senior-messages.md
+  - 加入我们:
+      - 如何加入: join-us.md
+      - 联系我们: contact.md
