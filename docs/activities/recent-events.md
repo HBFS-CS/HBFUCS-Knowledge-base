@@ -1,0 +1,1 @@
+- [2023 计算机协会新生见面会](https://static.hbfudevhub.tech/activity/23rd-grade-freshmen-orientation)
